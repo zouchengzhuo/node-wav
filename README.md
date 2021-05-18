@@ -1,5 +1,7 @@
 node-wav
 ========
+作者看样子不维护了，但是我们项目里边有用到，在此换个名字发布并修复一些致命bug。
+========
 ### `Reader` and `Writer` streams for Microsoft WAVE audio files
 [![Build Status](https://secure.travis-ci.org/TooTallNate/node-wav.svg)](http://travis-ci.org/TooTallNate/node-wav)
 

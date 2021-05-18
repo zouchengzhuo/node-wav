@@ -1,10 +1,10 @@
 {
-  "name": "wav",
+  "name": "rebirth-wav",
   "description": "`Reader` and `Writer` streams for Microsoft WAVE audio files",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "author": "Nathan Rajlich <nathan@tootallnate.net>",
-  "repository": "TooTallNate/node-wav",
+  "repository": "https://github.com/zouchengzhuo/node-wav.git",
   "dependencies": {
     "buffer-alloc": "^1.1.0",
     "buffer-from": "^1.0.0",
